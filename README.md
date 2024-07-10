@@ -1,4 +1,4 @@
-# CyberSec-WebBlog
+# CyberSec-WebBlog (Practice)
 
 # Cybersecurity Basics Website
 
